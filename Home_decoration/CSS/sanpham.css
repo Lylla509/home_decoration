@@ -1,0 +1,64 @@
+﻿body {
+}
+.main::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.img{
+    padding-top: 50px;
+}
+.img img {
+    width: 60%;
+    float: right;
+    padding: 5%;
+}
+.describe{
+    padding-top: 70px;
+    
+}
+.describe h1 {
+    margin: 0;
+    padding: 2%;
+    color: #5d3519;
+    padding-bottom: 5%;
+}
+.describe h2 {
+    margin: 0;
+    padding: 2%;
+    color: #5d3519;
+    padding-bottom: 4%;
+}
+.describe label{
+    padding: 2%;
+}
+.btnThem{
+    padding: 1.2%;
+    width: 70%;
+    background-color: #fff;
+    border: 0.5px solid #5d3519;
+}
+    .btnThem:hover {
+        background-color: #62381b;
+        color: #fff;
+    }
+.tb-sl{
+    padding: 2%;
+}
+.bt-them {
+    padding: 2%;
+    
+}
+.bt-them button{
+    background-color: #fff;
+}
+#btnThem{
+    background-color: #fff;
+}
+.des {
+    padding: 2%;
+}
+.des p{
+    font-size: 20px;
+}

@@ -1,0 +1,147 @@
+﻿body {
+}
+/*==== header======*/
+
+.logo img{
+    height: 70px;
+}
+.nav-bar{
+    padding-top: 40px;
+}
+nav{
+    text-align: center;
+}
+.nav-bar a{
+    color: #5d3519;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: larger;
+    padding: 30px;
+    
+}
+.nav-ic{
+    padding-top: 35px;
+    
+}
+.nav-ic img{
+    height: 30px;
+}
+
+/*==== footer=====*/
+.footer{
+    padding: 20px;
+}
+.ft{
+    padding-top: 50px;
+    
+}
+.contact-info h3 {
+    margin: 0;
+    padding-top: 5px;
+    font-size: 25px;
+    font-weight: bolder;
+    color: #5d3519;
+}
+
+.c-inf {
+    max-width: 40%;
+    text-align: right;
+    padding: 30px;
+    padding-top: 100px;
+}
+.contact-form {
+    max-width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 5px 25px;
+    padding: 5px;
+}
+.c-f {
+    max-width: 40%;
+    text-align: left;
+    padding: 30px;
+    padding-top: 100px;
+    border: 1px thin;
+}
+.btn_send {
+    width: 100%;
+    padding: 5px;
+}
+#btn-send {
+    width: 100%;
+    background-color: #5d3519;
+    height: 30px;
+    border: none;
+    color: #fff;
+    font-family: 'Times New Roman';
+    font-size: 18px;
+}
+.cf-ta_mess {
+    padding: 5px;
+}
+.cf-tb_email {
+    padding: 5px;
+}
+.cf-tb_name{
+    padding: 5px;
+}
+.cf-tb_name input {
+    width: 98%;
+    padding: 5px;
+}
+.cf-tb_email input {
+    width: 98%;
+    padding: 5px;
+}
+.cf-ta_mess textarea{
+    width: 98%;
+    padding: 5px;
+}
+/*==== grid =====*/
+.col-1 {
+    float: left;
+    width: 8.3%;
+}
+.col-2 {
+    float: left;
+    width: 16.67%;
+}
+.col-3{
+    float: left;
+    width: 25%;
+}
+.col-4 {
+    float: left;
+    width: 33.3%;
+}
+.col-5 {
+    float: left;
+    width: 41.67%;
+}
+.col-6 {
+    float: left;
+    width: 50%;
+}
+.col-7{
+    float: left;
+    width: 58.3%;
+}
+.col-8 {
+    float: left;
+    width:66.67%
+}
+.col-9 {
+    width:75%;
+    float: left;
+}
+.col-10 {
+    float: left;
+    width:83.3%
+}
+.col-11 {
+    float: left;
+    width: 91.67%;
+}
+.col-12{
+    width: 100%;
+    float: left;
+}
+

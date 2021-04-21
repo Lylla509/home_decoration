@@ -1,0 +1,149 @@
+﻿body {
+}
+/*===== product=======*/
+.body::after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+/*menu-bar*/
+.menu-bar {
+    width: 100%;
+    padding-top: 80px;
+}
+
+    .menu-bar table {
+        background-color: #ff6a00;
+        width: 100%;
+    }
+
+    .menu-bar tr {
+        width: 100%;
+        background-color: #ff6a00;
+    }
+
+    .menu-bar td {
+        padding: 0.5% 1.5%;
+        text-align: center;
+    }
+
+    .menu-bar a {
+        color: #fff;
+    }
+
+/*.new-p {
+    position: relative;
+    width: 100%;
+    float: left;
+}
+
+.new-p img {
+    display: block;
+    width: 300px;
+    height: 300px;
+    
+}
+
+.img_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.25s;
+}
+
+    .img_overlay:hover {
+        opacity: 1;
+    }
+
+.img_title {
+    padding-top: 50px;
+    text-align: center;
+}
+
+    .img_title button {
+        border-radius: 10px;
+        min-width: 70px;
+        padding: 2px;
+        border: #fff;
+    }
+*/
+.container {
+    padding: 0 10%;
+}
+
+.lv-np {
+    float: left;
+    max-width: 400px;
+    padding: 10px;
+}
+
+.sidebar{
+   padding-top: 10%;
+}
+.new-product{
+    padding-top: 10%;
+}
+
+
+
+.np {
+    padding: 10px;
+/*    max-width: 240px;
+*/    float: left;
+      max-width: 200px;
+    border: 0.5px solid #e8e8e8;
+}
+
+    .np img {
+        height: 150px;
+        width: 150px;
+        float: left;
+        padding: 2px;
+        transition: 0.2s;
+        padding-bottom: 5px;
+    }
+
+        .np img:hover {
+            transform: scale(1.04);
+        }
+
+    .np h3 {
+        text-align: left;
+        padding: 5px;
+        margin: 0;
+    }
+
+    .np p {
+        text-align: left;
+        margin: 0;
+        padding: 5px;
+    }
+
+    .np a {
+        text-decoration: none;
+        color: #3b210e;
+    }
+/*    ==============*/
+.nav-bar a{
+    color: #ff6a00;
+}
+.np h3{
+    color: #ff6a00;
+}
+.contact-info h3{color: #ff6a00;}
+.tbntim{
+    background-color: #fff;
+    width: 50px;
+}
+.tbntim:hover{
+    background-color: #ff6a00;
+}

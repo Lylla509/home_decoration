@@ -1,0 +1,67 @@
+﻿body {
+    margin: 0, auto;
+}
+tr{
+    width: 100%;
+}
+.img1{
+    width: 15%;
+    padding: 10px;
+}
+.img1 img {
+    width: 100%;
+    
+}
+.ttbar{
+    
+}
+.ttbar td {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    color: #5d3519;
+    font-weight: bold;
+    font-size: 20px;
+}
+.td-xoa{
+    width: 50px;
+}
+.btn-xoa {
+    width: 50px;
+    color: #5d3519;
+    background-color: #fff;
+    border: #fff;
+}
+.tblsp td{
+    padding-left: 10px;
+    font-size: 18px;
+}
+.name{
+    padding-left: 10px;
+}
+.form2{
+    padding-left: 30%;
+    padding-top: 5%;
+}
+.form-total-price {
+   
+}
+.hd {
+    text-align: center;
+    width: 60%;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 5px 25px;
+    padding-bottom: 20px;
+}
+.hd h1{
+    margin: 0 auto;
+    padding: 20px 10px 10px 10px;
+    color: #5d3519;
+}
+.submit-button-text1{
+    font-size: 17px;
+    width: 50%;
+    color: #5d3519;
+    border: 0.5px solid #5d3519;
+    background-color: #fff;
+
+}
